@@ -18,3 +18,5 @@ Python | Pandas | Scikit-learn | Random Forest | Streamlit
 git clone https://github.com/sujithakannan25/house-price-predictor.git
 pip install -r requirements.txt
 streamlit run app.py
+
+🌐 Live Demo: https://sujitha-house-price-predictor.streamlit.app
